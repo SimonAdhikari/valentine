@@ -1,4 +1,4 @@
-# 💌 Valentine Proposal Web App
+#  Valentine Proposal Web App
 
 [![Live Demo](https://img.shields.io/badge/demo-online-green?style=for-the-badge&logo=github)](https://bisug.github.io/valentine)
 [![GitHub license](https://img.shields.io/github/license/bisug/valentine?style=for-the-badge)](LICENSE)
